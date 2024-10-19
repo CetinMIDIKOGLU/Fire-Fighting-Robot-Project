@@ -26,7 +26,7 @@ Projenin çalışması için aşağıdaki donanım ve yazılımlar gereklidir:
 ## Katkıda Bulunanlar
 Projenin geliştirilmesine katkıda bulunan tüm kişiler ve GitHub profilleri:
 
-- [Çetin MIDIKOĞLU](https://github.com/CETYN)
+- [Çetin MIDIKOĞLU](https://github.com/CetinMIDIKOGLU)
 - [Mehmet Ali KOYLU](https://github.com/MehmetAliKOYLU)
 - [Yücel KANDAŞ](https://github.com/Yucel00)
 - [Mustafa Ahmet Hatip BAKIR](https://github.com/mahmethatipbakir)
